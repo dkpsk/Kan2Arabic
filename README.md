@@ -1,0 +1,1 @@
+[[やってみよう]漢数字をアラビア数字に変換](https://www.reddit.com/r/programming_jp/comments/56k5ht/)
